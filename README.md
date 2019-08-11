@@ -1,7 +1,6 @@
-# Simple Quiz App
+# Simple Quiz App (Hello Flutter)
 
-Practice project for learning Dart language Flutter framework. Aim of this project is understanding basics of dart and flutter. 
-Difference between Stateless and Stateful widgets. Separating widgets into different files.
+Practice project for learning Dart language & Flutter framework. Aim of this project is understanding basics of dart and flutter, difference between Stateless and Stateful widgets, separating widgets into different files.
 
 ## For More to Getting Started
 
